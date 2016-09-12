@@ -1,10 +1,4 @@
-﻿title: ndroid-Resources-Hodgepodge(Android资源大杂烩)
-categories: StorageBox
-tags: StorageBox
-
----
-
-**本文声明**：
+﻿**本文声明**：
 
 > 本文的内容整理自网络，本着知识交流分享的原则，请勿用于商业用途，
 对于引用的部分，都已在文中指出，如果有遗漏的，可以联系本人加上，若有
@@ -353,21 +347,21 @@ tags: StorageBox
 
 |1|2|3|4|
 |:-:|:-:|:-:|:-:|
-|<br>**Open软件开发小组**<br><br>![][170]|<br>**腾讯Bugly**<br><br>![][171]|<br>**郭霖**<br><br>![][172]|<br>**鸿洋**<br><br>![][173]|
-|<br>**QQ音乐技术团队**<br><br>![][174]|<br>**Android面试启示录**<br><br>![][175]|<br>**微信移动客户端开发团队**<br><br>![][176]|<br>**mobilehub**<br><br>![][177]|
-|<br>**QQ空间终端开发团队**<br><br>![][178]|<br>**非著名程序员**<br><br>![][179]|<br>**移动开发前线**<br><br>![][180]|<br>**流利说技术团队**<br><br>![][181]|
-|<br>**小创作**<br><br>![][182]|<br>**Android开发精选**<br><br>![][183]|<br>**codeKK**<br><br>![][184]|<br>**Android程序员**<br><br>![][185]|
-|<br>**Android群英传**<br><br>![][186]|<br>**魔都三帅**<br><br>![][187]|<br>**安卓应用频道**<br><br>![][188]|<br>**安卓同学**<br><br>![][189]|
-|<br>**Android开发艺术探索**<br><br>![][190]|<br>**Android博客周刊**<br><br>![][191]|<br>**Android安全技术大本营**<br><br>![][192]|<br>**沪江技术学院**<br><br>![][193]|
-|<br>**寒江不钓**<br><br>![][194]|<br>**keegan小钢**<br><br>![][195]|<br>**架构师之路**<br><br>![][196]|<br>**聊聊架构**<br><br>![][197]|
-|<br>**EGONetworks**<br><br>![][198]|<br>**InfoQ**<br><br>![][199]|<br>**程序猿**<br><br>![][200]|<br>**ImportNew**<br><br>![][201]|
-|<br>**伯乐在线**<br><br>![][202]|<br>**技术最前线**<br><br>![][203]|<br>**码农翻身**<br><br>![][204]|<br>**听云**<br><br>![][205]|
-|<br>**腾讯移动品质中心TMQ**<br><br>![][206]|<br>**鹅厂测试前沿**<br><br>![][207]|<br>**巴哥奔**<br><br>![][208]|<br>**PMCAFF**<br><br>![][209]|
-|<br>人人都是产品经理<br><br>![][210]|<br>**给产品经理讲技术**<br><br>![][211]|<br>**MacTalk**<br><br>![][212]|<br>**银教授吐槽**<br><br>![][213]|
-|<br>**warfalcon**<br><br>![][214]|<br>**余晟以为**<br><br>![][215]|<br>**keso怎么看**<br><br>![][216]|<br>**鬼脚七**<br><br>![][217]|
-|<br>**肉饼铺子**<br><br>![][218]|<br>**二爷鉴书**<br><br>![][219]|<br>**小道消息**<br><br>![][220]|<br>**AndroidDeveloper**<br><br>![][221]|
-|<br>**程序员的那些事**<br><br>![][222]|<br>**java那些事**<br><br>![][223]|<br>**阿里百川**<br><br>![][224]|<br>**谷歌开发者**<br><br>![][225]|
-|<br>**APP架构师**<br><br>![][226]|<br>**Android面霸君**<br><br>![][227]|<br>**学姐的IT专栏**<br><br>![][228]|<br>**WeMobileDev**<br><br>![][229]|
+|<br>**Open软件开发小组**<br><br>![][169]|<br>**腾讯Bugly**<br><br>![][170]|<br>**郭霖**<br><br>![][171]|<br>**鸿洋**<br><br>![][172]|
+|<br>**QQ音乐技术团队**<br><br>![][173]|<br>**Android面试启示录**<br><br>![][174]|<br>**微信移动客户端开发团队**<br><br>![][175]|<br>**mobilehub**<br><br>![][176]|
+|<br>**QQ空间终端开发团队**<br><br>![][177]|<br>**非著名程序员**<br><br>![][178]|<br>**移动开发前线**<br><br>![][179]|<br>**流利说技术团队**<br><br>![][180]|
+|<br>**小创作**<br><br>![][181]|<br>**Android开发精选**<br><br>![][182]|<br>**codeKK**<br><br>![][183]|<br>**Android程序员**<br><br>![][184]|
+|<br>**Android群英传**<br><br>![][185]|<br>**魔都三帅**<br><br>![][186]|<br>**安卓应用频道**<br><br>![][187]|<br>**安卓同学**<br><br>![][188]|
+|<br>**Android开发艺术探索**<br><br>![][189]|<br>**Android博客周刊**<br><br>![][190]|<br>**Android安全技术大本营**<br><br>![][191]|<br>**沪江技术学院**<br><br>![][192]|
+|<br>**寒江不钓**<br><br>![][193]|<br>**keegan小钢**<br><br>![][194]|<br>**架构师之路**<br><br>![][195]|<br>**聊聊架构**<br><br>![][196]|
+|<br>**EGONetworks**<br><br>![][197]|<br>**InfoQ**<br><br>![][198]|<br>**程序猿**<br><br>![][199]|<br>**ImportNew**<br><br>![][200]|
+|<br>**伯乐在线**<br><br>![][201]|<br>**技术最前线**<br><br>![][202]|<br>**码农翻身**<br><br>![][203]|<br>**听云**<br><br>![][204]|
+|<br>**腾讯移动品质中心TMQ**<br><br>![][205]|<br>**鹅厂测试前沿**<br><br>![][206]|<br>**巴哥奔**<br><br>![][207]|<br>**PMCAFF**<br><br>![][208]|
+|<br>人人都是产品经理<br><br>![][209]|<br>**给产品经理讲技术**<br><br>![][210]|<br>**MacTalk**<br><br>![][211]|<br>**银教授吐槽**<br><br>![][212]|
+|<br>**warfalcon**<br><br>![][213]|<br>**余晟以为**<br><br>![][214]|<br>**keso怎么看**<br><br>![][215]|<br>**鬼脚七**<br><br>![][216]|
+|<br>**肉饼铺子**<br><br>![][217]|<br>**二爷鉴书**<br><br>![][218]|<br>**小道消息**<br><br>![][219]|<br>**AndroidDeveloper**<br><br>![][220]|
+|<br>**程序员的那些事**<br><br>![][221]|<br>**java那些事**<br><br>![][222]|<br>**阿里百川**<br><br>![][223]|<br>**谷歌开发者**<br><br>![][224]|
+|<br>**APP架构师**<br><br>![][225]|<br>**Android面霸君**<br><br>![][226]|<br>**学姐的IT专栏**<br><br>![][227]|<br>**WeMobileDev**<br><br>![][228]|
 
 ----------
 
@@ -378,13 +372,13 @@ tags: StorageBox
 ----------
 
 
-- **慕课网**：[http://www.imooc.com/course/list?c=android][230]
-- **极客学院**：[http://www.jikexueyuan.com/course/android/][231]
-- **麦子学院**：[http://www.maiziedu.com/course/android/][232]
-- **Mars Android开发视频教程**：[http://mars.apkbus.com/][233]
-- **老罗 Android开发视频教程**：[http://luo.apkbus.com/][234]
-- **Udacity android courses**：[https://www.udacity.com/courses/android][235]
-- **腾讯大讲堂讲座视频**：[http://djt.qq.com/videos/][236]
+- **慕课网**：[http://www.imooc.com/course/list?c=android][229]
+- **极客学院**：[http://www.jikexueyuan.com/course/android/][230]
+- **麦子学院**：[http://www.maiziedu.com/course/android/][231]
+- **Mars Android开发视频教程**：[http://mars.apkbus.com/][232]
+- **老罗 Android开发视频教程**：[http://luo.apkbus.com/][233]
+- **Udacity android courses**：[https://www.udacity.com/courses/android][234]
+- **腾讯大讲堂讲座视频**：[http://djt.qq.com/videos/][235]
 ...
 
 
@@ -397,16 +391,16 @@ tags: StorageBox
 ----------
 
 
-- **牛客网**：[https://www.nowcoder.com/][237]
-- **LearningNotes**(面试方方面面)：[https://github.com/GeniusVJR/LearningNotes][238]
-- **skillgun**(选择题，英语)：[http://skillgun.com/android/interview-questions-and-answers][239]
-- **android-discuss**(Android问题交流坛)：[https://github.com/android-cn/android-discuss][240]
-- **《Android 开发工程师面试指南》**：[http://www.diycode.cc/wiki/androidinterview][241]
+- **牛客网**：[https://www.nowcoder.com/][236]
+- **LearningNotes**(面试方方面面)：[https://github.com/GeniusVJR/LearningNotes][237]
+- **skillgun**(选择题，英语)：[http://skillgun.com/android/interview-questions-and-answers][238]
+- **android-discuss**(Android问题交流坛)：[https://github.com/android-cn/android-discuss][239]
+- **《Android 开发工程师面试指南》**：[http://www.diycode.cc/wiki/androidinterview][240]
 - **Android工程师面试题大全**：
-[http://blog.csdn.net/mc_hust/article/details/49517915][242]
-[http://www.jianshu.com/p/1bdf7d0e1ac5][243]
-- **[干货]快速了解Android重要机制**：[http://www.jianshu.com/p/5f6d79323923][244]
-- **BAT|无线工程师面试流程详细解析**：[http://www.jianshu.com/p/f0d2ed1254a9][245]
+[http://blog.csdn.net/mc_hust/article/details/49517915][241]
+[http://www.jianshu.com/p/1bdf7d0e1ac5][242]
+- **[干货]快速了解Android重要机制**：[http://www.jianshu.com/p/5f6d79323923][243]
+- **BAT|无线工程师面试流程详细解析**：[http://www.jianshu.com/p/f0d2ed1254a9][244]
 ...
 
 
@@ -415,21 +409,23 @@ tags: StorageBox
 
 ## 12.精美APP观摩(推广)/评测/软文
 
-- **豌豆荚设计奖**：[http://www.wandoujia.com/award][246]
-- **最美应用**：[http://zuimeia.com/?platform=2][247]
-- **少数派**：[http://sspai.com][248]
-- **爱应用**：[http://www.iapps.im/][249]
-- **爱屁屁**：[http://www.appnz.com/][250]
-- **数字尾巴**：[http://www.dgtle.com/][251]
-- **氪TV**：[http://tv.36kr.com/][252]
-- **ifanr 爱范儿**：[http://www.ifanr.com/][253]
+- **豌豆荚设计奖**：[http://www.wandoujia.com/award][245]
+- **最美应用**：[http://zuimeia.com/?platform=2][246]
+- **少数派**：[http://sspai.com][247]
+- **爱应用**：[http://www.iapps.im/][248]
+- **爱屁屁**：[http://www.appnz.com/][249]
+- **数字尾巴**：[http://www.dgtle.com/][250]
+- **氪TV**：[http://tv.36kr.com/][251]
+- **ifanr 爱范儿**：[http://www.ifanr.com/][252]
+- **钛媒体**：[http://www.tmtpost.com/][253]
+- **ZEALER科技视频**：[http://www.zealer.com/media][254]
 ...
 
     **文章**：
 - **移动端的app应用推广流程以及优化的注意事项**：
-[http://www.wtoutiao.com/p/1d7t60h.html][254]
+[http://www.wtoutiao.com/p/1d7t60h.html][255]
 - **APP初期上线，有哪些比较靠谱的推广渠道、方式？**
-[https://www.zhihu.com/question/27539055#answer-22840481][255]
+[https://www.zhihu.com/question/27539055#answer-22840481][256]
 
 ----------
 
@@ -438,10 +434,10 @@ tags: StorageBox
 本文内容摘取自下述站点(参考较多，有遗漏的欢迎提出)：
 
 > 
-- [http://androidcat.com/][256]
-- [https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles/blob/master/Android%E4%BC%98%E8%B4%A8%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86.md][257]
-- [http://androidblog.cn/tools/#clean][258]
-- [https://github.com/zhujun2730/Android-Learning-Resources][259]
+- [http://androidcat.com/][257]
+- [https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles/blob/master/Android%E4%BC%98%E8%B4%A8%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86.md][258]
+- [http://androidblog.cn/tools/#clean][259]
+- [https://github.com/zhujun2730/Android-Learning-Resources][260]
 
 
 ----------
@@ -615,94 +611,95 @@ tags: StorageBox
   [166]: http://www.jianshu.com/collection/5139d555c94d
   [167]: http://www.jianshu.com/collection/3fde3b545a35
   [168]: http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483841&idx=1&sn=4d103e343f4cb84cb35c52253ef76019&scene=4#wechat_redirect
-  [169]: http://static.zybuluo.com/coder-pig/lbrkg0w1cf4i1zobtrgjez92/image_1as4t7jfl1jli1o4g5lt1c7u11r5m.png
-  [170]: http://static.zybuluo.com/coder-pig/di7w041h1kocsvh18c98a87g/image_1as4tniqo1jnq14eoehfiiupt13.png
-  [171]: http://static.zybuluo.com/coder-pig/qmn9t8kgsycl7yz2lh4fht3f/1_%E7%BC%96%E8%BE%91.png
-  [172]: http://static.zybuluo.com/coder-pig/bzic60u4ce799ja88tdh4490/image_1as4usd0ui9j1rp31bcqf33ulr29.png
-  [173]: http://static.zybuluo.com/coder-pig/pzi69oafofojwd3ffkpgy87i/image_1as73jht61gtrmr41kmh1l7h1pfq9.png
-  [174]: http://static.zybuluo.com/coder-pig/v2ihz9zi470zegd9k12yr05h/image_1as73rjdb18dscso1puegp31amgm.png
-  [175]: http://static.zybuluo.com/coder-pig/3h7dufnkemga4hmm51mlhqx6/image_1as73tf921qa111h31et317au1j3h1j.png
-  [176]: http://static.zybuluo.com/coder-pig/68xf97y0kcgw56uru91zkmai/1.png
-  [177]: http://static.zybuluo.com/coder-pig/pksc3m938pm2zr41bn1sei30/1.png
-  [178]: http://static.zybuluo.com/coder-pig/l5hsmhhq3jqstgpcjygloydc/2.png
-  [179]: http://static.zybuluo.com/coder-pig/z2rksfil76sskacm54cbe059/3.png
-  [180]: http://static.zybuluo.com/coder-pig/pygvlnu53od4bntmcb7ags5q/4.png
-  [181]: http://static.zybuluo.com/coder-pig/lrhazf92qbrpz2a1jdphvx7x/5.png
-  [182]: http://static.zybuluo.com/coder-pig/8glcerxikjxbdttq7e3q9g8u/6.png
-  [183]: http://static.zybuluo.com/coder-pig/7bh5i2hj2zdkjea7kq19trut/6.png
-  [184]: http://static.zybuluo.com/coder-pig/k9z1nxz373bt9sny3g6fg60r/7.png
-  [185]: http://static.zybuluo.com/coder-pig/dt7aj3ctun90kcqijnuh46ah/8.png
-  [186]: http://static.zybuluo.com/coder-pig/4k5s3diqnd4hvkfxald30qa7/9.png
-  [187]: http://static.zybuluo.com/coder-pig/5tmlajtfya4tr5cduo5aunnx/10.png
-  [188]: http://static.zybuluo.com/coder-pig/ke97832vgtk5adk7vu3linpv/12.png
-  [189]: http://static.zybuluo.com/coder-pig/s2642svib213ys4bfe787dep/13.png
-  [190]: http://static.zybuluo.com/coder-pig/4getpykooudmpcxixz0tnflr/14.png
-  [191]: http://static.zybuluo.com/coder-pig/0wvxmnxrrwrvbm1b1ond1i3a/15.png
-  [192]: http://static.zybuluo.com/coder-pig/1pxsjcmka2ptigzvge3uyw9e/16.png
-  [193]: http://static.zybuluo.com/coder-pig/jjgfqqadzrsk8q9cxizzun68/17.png
-  [194]: http://static.zybuluo.com/coder-pig/aj19igbpys1rajy717s27jvj/18.png
-  [195]: http://static.zybuluo.com/coder-pig/c9n6fmkfm3lwzsekq079llv2/19.png
-  [196]: http://static.zybuluo.com/coder-pig/yh9inu8k0r8ctfta8dunrgei/21.png
-  [197]: http://static.zybuluo.com/coder-pig/yvmt03sc0li9v71pcbf7iuql/22.png
-  [198]: http://static.zybuluo.com/coder-pig/2j2e8x15xrgodepf1pdhu0pz/23.png
-  [199]: http://static.zybuluo.com/coder-pig/s6wbawfeh7geym8tfkcatvvl/24.png
-  [200]: http://static.zybuluo.com/coder-pig/wn6nrp3qb5xjtg0eg4zyc1nt/25.png
-  [201]: http://static.zybuluo.com/coder-pig/rht7pdfv5oglgf9xg9oabl3y/26.png
-  [202]: http://static.zybuluo.com/coder-pig/sgq879mmj14hir12k2c607xf/27.png
-  [203]: http://static.zybuluo.com/coder-pig/3wmca3o1bo7p9ucvztbwz2us/28.png
-  [204]: http://static.zybuluo.com/coder-pig/3b81b1tisl2eds7ajr29767p/29.png
-  [205]: http://static.zybuluo.com/coder-pig/y646vxh539hrno7psayd2yg9/30.png
-  [206]: http://static.zybuluo.com/coder-pig/k171j7yukta2n1iowv4135ys/31.png
-  [207]: http://static.zybuluo.com/coder-pig/e4uwvbbif71xerdzarj85wrv/32.png
-  [208]: http://static.zybuluo.com/coder-pig/rr1hwemnqphofdsntmjh5tcd/33.png
-  [209]: http://static.zybuluo.com/coder-pig/llad2fplmps2k5xe9vuzqcrh/34.png
-  [210]: http://static.zybuluo.com/coder-pig/xg4wzktjt6z8028sco5db6yy/35.png
-  [211]: http://static.zybuluo.com/coder-pig/ktpr91ftbor7v6bhjozeypbg/36.png
-  [212]: http://static.zybuluo.com/coder-pig/k5h6caao9feryf6ksrnjgfb2/37.png
-  [213]: http://static.zybuluo.com/coder-pig/6uijujl298ugtxolen8100hf/38.png
-  [214]: http://static.zybuluo.com/coder-pig/nxs56y9056s8gwybapylicxq/39.png
-  [215]: http://static.zybuluo.com/coder-pig/9l7l739f3mwnrj2j6zn5rml1/40.png
-  [216]: http://static.zybuluo.com/coder-pig/3tezgz8v2r277cai1r2k20wm/41.png
-  [217]: http://static.zybuluo.com/coder-pig/19hws5nbjyjnfaml0qpyef0o/42.png
-  [218]: http://static.zybuluo.com/coder-pig/5g0owub8rmit0czdcoukjxnc/43.png
-  [219]: http://static.zybuluo.com/coder-pig/ik4p63ofpig2ppc9mjolxnzs/44.png
-  [220]: http://static.zybuluo.com/coder-pig/fekgpvm0pv87r2f8i4b1rfcd/45.png
-  [221]: http://static.zybuluo.com/coder-pig/u6tbv0waohl3jt04f815u1nd/46.png
-  [222]: http://static.zybuluo.com/coder-pig/6hwuda4jx8k95k65nc7c0955/47.png
-  [223]: http://static.zybuluo.com/coder-pig/xa9ofnkl4fnrxm6sgb2cpra7/48.png
-  [224]: http://static.zybuluo.com/coder-pig/eljncb7nt7tmyu0d9utq8tx6/49.png
-  [225]: http://static.zybuluo.com/coder-pig/h2hvf1fuv3pvq8oq5k9f7usd/50.png
-  [226]: http://static.zybuluo.com/coder-pig/jlbveicriakr1xs84pybct7e/51.png
-  [227]: http://static.zybuluo.com/coder-pig/9fffncq6p4hmkfs03x1z1nvb/52.png
-  [228]: http://static.zybuluo.com/coder-pig/u7eapkgie1l2bnwmexi2fri4/53.png
-  [229]: http://static.zybuluo.com/coder-pig/l78ckuoebr6wz0iw6fl6cwrx/54.png
-  [230]: http://www.imooc.com/course/list?c=android
-  [231]: http://www.jikexueyuan.com/course/android/
-  [232]: http://www.maiziedu.com/course/android/
-  [233]: http://mars.apkbus.com/
-  [234]: http://luo.apkbus.com/
-  [235]: https://www.udacity.com/courses/android
-  [236]: http://djt.qq.com/videos/
-  [237]: https://www.nowcoder.com/
-  [238]: https://github.com/GeniusVJR/LearningNotes
-  [239]: http://skillgun.com/android/interview-questions-and-answers
-  [240]: https://github.com/android-cn/android-discuss
-  [241]: http://www.diycode.cc/wiki/androidinterview
-  [242]: http://blog.csdn.net/mc_hust/article/details/49517915
-  [243]: http://www.jianshu.com/p/1bdf7d0e1ac5
-  [244]: http://www.jianshu.com/p/5f6d79323923
-  [245]: http://www.jianshu.com/p/f0d2ed1254a9
-  [246]: http://www.wandoujia.com/award
-  [247]: http://zuimeia.com/?platform=2
-  [248]: http://sspai.com/tag/android?t=%E5%BA%94%E7%94%A8
-  [249]: http://www.iapps.im/
-  [250]: http://www.appnz.com/
-  [251]: http://www.dgtle.com/
-  [252]: http://tv.36kr.com/
-  [253]: http://www.ifanr.com/
-  [254]: http://www.wtoutiao.com/p/1d7t60h.html
-  [255]: https://www.zhihu.com/question/27539055#answer-22840481
-  [256]: http://androidcat.com/
-  [257]: https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles/blob/master/Android%E4%BC%98%E8%B4%A8%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86.md
-  [258]: http://androidblog.cn/tools/#clean
-  [259]: https://github.com/zhujun2730/Android-Learning-Resources
+  [169]: http://static.zybuluo.com/coder-pig/di7w041h1kocsvh18c98a87g/image_1as4tniqo1jnq14eoehfiiupt13.png
+  [170]: http://static.zybuluo.com/coder-pig/qmn9t8kgsycl7yz2lh4fht3f/1_%E7%BC%96%E8%BE%91.png
+  [171]: http://static.zybuluo.com/coder-pig/bzic60u4ce799ja88tdh4490/image_1as4usd0ui9j1rp31bcqf33ulr29.png
+  [172]: http://static.zybuluo.com/coder-pig/pzi69oafofojwd3ffkpgy87i/image_1as73jht61gtrmr41kmh1l7h1pfq9.png
+  [173]: http://static.zybuluo.com/coder-pig/v2ihz9zi470zegd9k12yr05h/image_1as73rjdb18dscso1puegp31amgm.png
+  [174]: http://static.zybuluo.com/coder-pig/3h7dufnkemga4hmm51mlhqx6/image_1as73tf921qa111h31et317au1j3h1j.png
+  [175]: http://static.zybuluo.com/coder-pig/68xf97y0kcgw56uru91zkmai/1.png
+  [176]: http://static.zybuluo.com/coder-pig/pksc3m938pm2zr41bn1sei30/1.png
+  [177]: http://static.zybuluo.com/coder-pig/l5hsmhhq3jqstgpcjygloydc/2.png
+  [178]: http://static.zybuluo.com/coder-pig/z2rksfil76sskacm54cbe059/3.png
+  [179]: http://static.zybuluo.com/coder-pig/pygvlnu53od4bntmcb7ags5q/4.png
+  [180]: http://static.zybuluo.com/coder-pig/lrhazf92qbrpz2a1jdphvx7x/5.png
+  [181]: http://static.zybuluo.com/coder-pig/8glcerxikjxbdttq7e3q9g8u/6.png
+  [182]: http://static.zybuluo.com/coder-pig/7bh5i2hj2zdkjea7kq19trut/6.png
+  [183]: http://static.zybuluo.com/coder-pig/k9z1nxz373bt9sny3g6fg60r/7.png
+  [184]: http://static.zybuluo.com/coder-pig/dt7aj3ctun90kcqijnuh46ah/8.png
+  [185]: http://static.zybuluo.com/coder-pig/4k5s3diqnd4hvkfxald30qa7/9.png
+  [186]: http://static.zybuluo.com/coder-pig/5tmlajtfya4tr5cduo5aunnx/10.png
+  [187]: http://static.zybuluo.com/coder-pig/ke97832vgtk5adk7vu3linpv/12.png
+  [188]: http://static.zybuluo.com/coder-pig/s2642svib213ys4bfe787dep/13.png
+  [189]: http://static.zybuluo.com/coder-pig/4getpykooudmpcxixz0tnflr/14.png
+  [190]: http://static.zybuluo.com/coder-pig/0wvxmnxrrwrvbm1b1ond1i3a/15.png
+  [191]: http://static.zybuluo.com/coder-pig/1pxsjcmka2ptigzvge3uyw9e/16.png
+  [192]: http://static.zybuluo.com/coder-pig/jjgfqqadzrsk8q9cxizzun68/17.png
+  [193]: http://static.zybuluo.com/coder-pig/aj19igbpys1rajy717s27jvj/18.png
+  [194]: http://static.zybuluo.com/coder-pig/c9n6fmkfm3lwzsekq079llv2/19.png
+  [195]: http://static.zybuluo.com/coder-pig/yh9inu8k0r8ctfta8dunrgei/21.png
+  [196]: http://static.zybuluo.com/coder-pig/yvmt03sc0li9v71pcbf7iuql/22.png
+  [197]: http://static.zybuluo.com/coder-pig/2j2e8x15xrgodepf1pdhu0pz/23.png
+  [198]: http://static.zybuluo.com/coder-pig/s6wbawfeh7geym8tfkcatvvl/24.png
+  [199]: http://static.zybuluo.com/coder-pig/wn6nrp3qb5xjtg0eg4zyc1nt/25.png
+  [200]: http://static.zybuluo.com/coder-pig/rht7pdfv5oglgf9xg9oabl3y/26.png
+  [201]: http://static.zybuluo.com/coder-pig/sgq879mmj14hir12k2c607xf/27.png
+  [202]: http://static.zybuluo.com/coder-pig/3wmca3o1bo7p9ucvztbwz2us/28.png
+  [203]: http://static.zybuluo.com/coder-pig/3b81b1tisl2eds7ajr29767p/29.png
+  [204]: http://static.zybuluo.com/coder-pig/y646vxh539hrno7psayd2yg9/30.png
+  [205]: http://static.zybuluo.com/coder-pig/k171j7yukta2n1iowv4135ys/31.png
+  [206]: http://static.zybuluo.com/coder-pig/e4uwvbbif71xerdzarj85wrv/32.png
+  [207]: http://static.zybuluo.com/coder-pig/rr1hwemnqphofdsntmjh5tcd/33.png
+  [208]: http://static.zybuluo.com/coder-pig/llad2fplmps2k5xe9vuzqcrh/34.png
+  [209]: http://static.zybuluo.com/coder-pig/xg4wzktjt6z8028sco5db6yy/35.png
+  [210]: http://static.zybuluo.com/coder-pig/ktpr91ftbor7v6bhjozeypbg/36.png
+  [211]: http://static.zybuluo.com/coder-pig/k5h6caao9feryf6ksrnjgfb2/37.png
+  [212]: http://static.zybuluo.com/coder-pig/6uijujl298ugtxolen8100hf/38.png
+  [213]: http://static.zybuluo.com/coder-pig/nxs56y9056s8gwybapylicxq/39.png
+  [214]: http://static.zybuluo.com/coder-pig/9l7l739f3mwnrj2j6zn5rml1/40.png
+  [215]: http://static.zybuluo.com/coder-pig/3tezgz8v2r277cai1r2k20wm/41.png
+  [216]: http://static.zybuluo.com/coder-pig/19hws5nbjyjnfaml0qpyef0o/42.png
+  [217]: http://static.zybuluo.com/coder-pig/5g0owub8rmit0czdcoukjxnc/43.png
+  [218]: http://static.zybuluo.com/coder-pig/ik4p63ofpig2ppc9mjolxnzs/44.png
+  [219]: http://static.zybuluo.com/coder-pig/fekgpvm0pv87r2f8i4b1rfcd/45.png
+  [220]: http://static.zybuluo.com/coder-pig/u6tbv0waohl3jt04f815u1nd/46.png
+  [221]: http://static.zybuluo.com/coder-pig/6hwuda4jx8k95k65nc7c0955/47.png
+  [222]: http://static.zybuluo.com/coder-pig/xa9ofnkl4fnrxm6sgb2cpra7/48.png
+  [223]: http://static.zybuluo.com/coder-pig/eljncb7nt7tmyu0d9utq8tx6/49.png
+  [224]: http://static.zybuluo.com/coder-pig/h2hvf1fuv3pvq8oq5k9f7usd/50.png
+  [225]: http://static.zybuluo.com/coder-pig/jlbveicriakr1xs84pybct7e/51.png
+  [226]: http://static.zybuluo.com/coder-pig/9fffncq6p4hmkfs03x1z1nvb/52.png
+  [227]: http://static.zybuluo.com/coder-pig/u7eapkgie1l2bnwmexi2fri4/53.png
+  [228]: http://static.zybuluo.com/coder-pig/l78ckuoebr6wz0iw6fl6cwrx/54.png
+  [229]: http://www.imooc.com/course/list?c=android
+  [230]: http://www.jikexueyuan.com/course/android/
+  [231]: http://www.maiziedu.com/course/android/
+  [232]: http://mars.apkbus.com/
+  [233]: http://luo.apkbus.com/
+  [234]: https://www.udacity.com/courses/android
+  [235]: http://djt.qq.com/videos/
+  [236]: https://www.nowcoder.com/
+  [237]: https://github.com/GeniusVJR/LearningNotes
+  [238]: http://skillgun.com/android/interview-questions-and-answers
+  [239]: https://github.com/android-cn/android-discuss
+  [240]: http://www.diycode.cc/wiki/androidinterview
+  [241]: http://blog.csdn.net/mc_hust/article/details/49517915
+  [242]: http://www.jianshu.com/p/1bdf7d0e1ac5
+  [243]: http://www.jianshu.com/p/5f6d79323923
+  [244]: http://www.jianshu.com/p/f0d2ed1254a9
+  [245]: http://www.wandoujia.com/award
+  [246]: http://zuimeia.com/?platform=2
+  [247]: http://sspai.com/tag/android?t=%E5%BA%94%E7%94%A8
+  [248]: http://www.iapps.im/
+  [249]: http://www.appnz.com/
+  [250]: http://www.dgtle.com/
+  [251]: http://tv.36kr.com/
+  [252]: http://www.ifanr.com/
+  [253]: http://www.tmtpost.com/
+  [254]: http://www.zealer.com/media
+  [255]: http://www.wtoutiao.com/p/1d7t60h.html
+  [256]: https://www.zhihu.com/question/27539055#answer-22840481
+  [257]: http://androidcat.com/
+  [258]: https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles/blob/master/Android%E4%BC%98%E8%B4%A8%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86.md
+  [259]: http://androidblog.cn/tools/#clean
+  [260]: https://github.com/zhujun2730/Android-Learning-Resources
