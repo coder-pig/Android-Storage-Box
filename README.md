@@ -51,7 +51,13 @@
 
 ## 2.Android-Skillful-craftsman(Android能工巧匠)
 
-收集Android各个能工巧匠的技术博客...
+收集Android各个能工巧匠的技术博客，快来抱抱大腿~~\(≧▽≦)/~
+
+- ①CSDN博客/博客园
+- ②个人博客
+- ③简书
+- ④国外博客
+
 
 ## 3.Android-Gifts-Articles(Android精品文章)
 
